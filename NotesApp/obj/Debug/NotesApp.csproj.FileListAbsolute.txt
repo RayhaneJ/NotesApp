@@ -1,0 +1,78 @@
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\x86\e_sqlite3.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\x64\e_sqlite3.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLite-net.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLite-net.pdb
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\SQLite-net.xml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csprojResolveAssemblyReference.cache
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\LoginWindow.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\NotesWindow.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\App.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp_Content.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp_MarkupCompile.cache
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp_MarkupCompile.lref
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\LoginWindow.baml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\NotesWindow.baml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.g.resources
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.Cache
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\UserControls\Notebook.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\UserControls\Notebook.baml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\UserControls\NoteControl.g.cs
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\View\UserControls\NoteControl.baml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CopyComplete
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\lalor\source\repos\NotesApp\NotesApp\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\x86\e_sqlite3.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\x64\e_sqlite3.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\NotesApp.exe.config
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\NotesApp.exe
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\NotesApp.pdb
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLite-net.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLite-net.pdb
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\SQLite-net.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\LoginWindow.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\NotesWindow.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\UserControls\Notebook.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\UserControls\NoteControl.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\App.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp_Content.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp_MarkupCompile.cache
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp_MarkupCompile.lref
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\LoginWindow.baml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\NotesWindow.baml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\UserControls\Notebook.baml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\View\UserControls\NoteControl.baml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.g.resources
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.GenerateResource.cache
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.csproj.CopyComplete
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.exe
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.pdb
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Microsoft.Azure.Mobile.Client.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Microsoft.Azure.Mobile.Client.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rji8\Documents\Visual Studio 2019\Projects\NotesApp\NotesApp\obj\Debug\NotesApp.csprojAssemblyReference.cache
